@@ -1,0 +1,15 @@
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\bin\Debug\net6.0\Homework_sem_6_arrayAndLine.exe
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\bin\Debug\net6.0\Homework_sem_6_arrayAndLine.deps.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\bin\Debug\net6.0\Homework_sem_6_arrayAndLine.runtimeconfig.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\bin\Debug\net6.0\Homework_sem_6_arrayAndLine.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\bin\Debug\net6.0\Homework_sem_6_arrayAndLine.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.csproj.AssemblyReference.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.AssemblyInfoInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.AssemblyInfo.cs
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.csproj.CoreCompileInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\refint\Homework_sem_6_arrayAndLine.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\Homework_sem_6_arrayAndLine.genruntimeconfig.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 6\Homework_sem_6_arrayAndLine\obj\Debug\net6.0\ref\Homework_sem_6_arrayAndLine.dll
